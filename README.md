@@ -117,21 +117,14 @@ Next.js React TypeScript Tailwind CSS Framer Motion
 ## 📊 GitHub Analytics
 
 <div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=NicolasPonceH&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NicolasPonceH&layout=compact&theme=tokyonight&hide_border=true"/>
-
+<img height="170" src="https://github-stats-extended.vercel.app/api?username=NicolasPonceH&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true"/>
+<img height="170" src="https://github-stats-extended.vercel.app/api/top-langs/?username=NicolasPonceH&layout=compact&theme=tokyonight&hide_border=true"/>
 <img src="https://streak-stats.demolab.com?user=NicolasPonceH&theme=tokyonight&hide_border=true"/>
-
 <img src="https://github-readme-trophies.vercel.app/?username=NicolasPonceH&theme=tokyonight&no-frame=true&row=1&column=7"/>
-
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=NicolasPonceH&theme=tokyo-night&hide_border=true"/>
-
 </div>
-
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
-
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:3B82F6,100:8B5CF6&height=3&width=100%"/>
 
 ## 🐍 Actividad reciente (Snake)
