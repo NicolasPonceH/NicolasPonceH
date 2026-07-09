@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3B82F6,100:8B5CF6&height=220&section=header&text=Nicol%C3%A1s%20Ponce&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Software%20Developer%20%E2%80%A2%20AI%20%E2%80%A2%20IoT%20%E2%80%A2%20Full%20Stack&descAlignY=55&descSize=18"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1000&color=3B82F6&center=true&vCenter=true&width=700&lines=Ingenier%C3%ADa+en+Inform%C3%A1tica;Full+Stack+Developer;AI+%26+IoT+Enthusiast;Mobile+Application+Developer;Always+Learning+%F0%9F%9A%80" />
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1000&color=3B82F6&center=true&vCenter=true&width=700&lines=Ingenier%C3%ADa+en+Inform%C3%A1tica;Full+Stack+Developer+JR;AI+%26+IoT+Enthusiast;Mobile+Application+Developer;Always+Learning+%F0%9F%9A%80" />
 
 <br>
 
