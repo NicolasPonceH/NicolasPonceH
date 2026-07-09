@@ -98,15 +98,19 @@ Proyecto enfocado en bienestar y salud mediante tecnologías web modernas.
 `Vue.js`
 🔗 https://github.com/NicolasPonceH/BioBalance
 
-### 🏢 Landing Page - J2N Software
-Landing Page corporativa con animaciones avanzadas y diseño premium.
-`Next.js` `TypeScript` `Tailwind CSS` `Framer Motion`
-🔗 https://github.com/NicolasPonceH/LandingPage_J2N_Software
+🏢 Landing Page - J2N Software
 
-### 🐾 Landing Page - PetGuard
+Landing Page corporativa con animaciones avanzadas y diseño premium.
+Next.js TypeScript Tailwind CSS Framer Motion
+🔗 Repo: https://github.com/NicolasPonceH/LandingPage_J2N_Software
+🌐 Demo: https://j2nsoftware.netlify.app/
+
+🐾 Landing Page - PetGuard
+
 Landing Page interactiva del ecosistema PetGuard.
-`Next.js` `React` `TypeScript` `Tailwind CSS` `Framer Motion`
-🔗 https://github.com/NicolasPonceH/LandingPage_PetGuard
+Next.js React TypeScript Tailwind CSS Framer Motion
+🔗 Repo: https://github.com/NicolasPonceH/LandingPage_PetGuard
+🌐 Demo: https://petguardpage.netlify.app/
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:3B82F6,100:8B5CF6&height=3&width=100%"/>
 
