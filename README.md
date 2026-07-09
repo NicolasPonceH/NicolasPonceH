@@ -83,28 +83,6 @@ Mi objetivo es convertirme en un **Software Engineer**, desarrollando aplicacion
 
 ## 🌟 Proyectos Destacados
 
-<div align="center">
-
-<a href="https://github.com/NicolasPonceH/PetGuardApp">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=NicolasPonceH&repo=PetGuardApp&theme=tokyonight&hide_border=true"/>
-</a>
-<a href="https://github.com/NicolasPonceH/TuriArica">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=NicolasPonceH&repo=TuriArica&theme=tokyonight&hide_border=true"/>
-</a>
-<br>
-<a href="https://github.com/NicolasPonceH/BioBalance">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=NicolasPonceH&repo=BioBalance&theme=tokyonight&hide_border=true"/>
-</a>
-<a href="https://github.com/NicolasPonceH/LandingPage_J2N_Software">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=NicolasPonceH&repo=LandingPage_J2N_Software&theme=tokyonight&hide_border=true"/>
-</a>
-<br>
-<a href="https://github.com/NicolasPonceH/LandingPage_PetGuard">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=NicolasPonceH&repo=LandingPage_PetGuard&theme=tokyonight&hide_border=true"/>
-</a>
-
-</div>
-
 ### 🐶 PetGuard
 Sistema inteligente para el monitoreo de la salud de mascotas mediante IoT, aplicación móvil y dashboard de monitoreo.
 `Flutter` `Supabase` `TypeScript` `Next.js` `IoT`
