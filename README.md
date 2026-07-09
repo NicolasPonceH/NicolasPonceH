@@ -168,21 +168,14 @@ Next.js React TypeScript Tailwind CSS Framer Motion
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:3B82F6,100:8B5CF6&height=3&width=100%"/>
 
-## 📫 Contacto
+📫 Contacto
 
 <div align="center">
-
 <a href="https://github.com/NicolasPonceH">
 <img src="https://img.shields.io/badge/GitHub-NicolasPonceH-181717?style=for-the-badge&logo=github"/>
 </a>
-
-<!-- Agrega aquí tu LinkedIn cuando lo tengas -->
-<!--
-<a href="https://linkedin.com/in/TU-USUARIO">
-<img src="https://img.shields.io/badge/LinkedIn-Nicolás_Ponce-0A66C2?style=for-the-badge&logo=linkedin"/>
+<a href="mailto:poncenicolas8981@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-poncenicolas8981-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
--->
-
 </div>
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3B82F6,100:8B5CF6&height=120&section=footer"/>
