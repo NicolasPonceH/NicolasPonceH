@@ -160,7 +160,6 @@ Landing Page interactiva del ecosistema PetGuard.
 
 </div>
 
-> ⚙️ Esta animación se genera sola cada día mediante una GitHub Action. Instrucciones abajo.
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:3B82F6,100:8B5CF6&height=3&width=100%"/>
 
