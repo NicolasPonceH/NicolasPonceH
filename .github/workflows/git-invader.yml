@@ -21,5 +21,7 @@ jobs:
       - name: Generate Space Invaders SVG
         uses: VARDHAMANPATEL23/git-invader@v1.0.0
         with:
-          github_user_name: NicolasPonceH
+          github_username: NicolasPonceH
           github_token: ${{ secrets.GITHUB_TOKEN }}
+          color: green
+          mode: dark
