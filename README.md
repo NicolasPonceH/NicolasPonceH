@@ -12,6 +12,16 @@
 
 </div>
 
+<div align="center">
+
+<img src="assets/terminal-whoami.svg" width="780" alt="whoami"/>
+
+<br>
+
+<img src="assets/terminal-about.svg" width="780" alt="about"/>
+
+</div>
+
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:3B82F6,100:8B5CF6&height=3&width=100%"/>
 
 ## 🚀 Sobre mí
@@ -138,8 +148,10 @@ Sistema de gestión integral para competencias de Drag Racing: digitaliza el reg
 <img src="https://github-readme-trophies.vercel.app/?username=NicolasPonceH&theme=tokyonight&no-frame=true&row=1&column=7"/>
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=NicolasPonceH&theme=tokyo-night&hide_border=true"/>
 </div>
+
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
+
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:3B82F6,100:8B5CF6&height=3&width=100%"/>
 
 ## 👾 Contribuciones (Space Invaders)
