@@ -1,7 +1,7 @@
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/hero?username=NicolasPonceH&theme=aurora&mode=light"/>
-    <img src="https://www.gitskins.com/api/section/hero?username=NicolasPonceH&theme=aurora" alt="NicolasPonceH hero section" />
+    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/hero?username=NicolasPonceH&theme=aurora&mode=light&v=2"/>
+    <img src="https://www.gitskins.com/api/section/hero?username=NicolasPonceH&theme=aurora&v=2" alt="NicolasPonceH hero section" />
   </picture>
 </p>
 
