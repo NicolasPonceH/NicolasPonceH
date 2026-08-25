@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3B82F6,100:8B5CF6&height=220&section=header&text=Nicol%C3%A1s%20Ponce&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Software%20Developer%20%E2%80%A2%20AI%20%E2%80%A2%20IoT%20%E2%80%A2%20Full%20Stack&descAlignY=55&descSize=18"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3B82F6,100:8B5CF6&height=220&section=header&text=Nicol%C3%A1s%20Ponce&fontSize=55&fontColor=ffffff&fontFamily=Poppins&animation=fadeIn&fontAlignY=35&desc=Software%20Developer%20%E2%80%A2%20AI%20%E2%80%A2%20IoT%20%E2%80%A2%20Full%20Stack&descAlignY=55&descSize=18"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1000&color=3B82F6&center=true&vCenter=true&width=700&lines=Ingenier%C3%ADa+en+Inform%C3%A1tica;Full+Stack+Developer+Junior;AI+%26+IoT+Enthusiast;Mobile+Application+Developer;Always+Learning+%F0%9F%9A%80" />
 
@@ -84,33 +84,48 @@ Mi objetivo es convertirme en un **Software Engineer**, desarrollando aplicacion
 ## 🌟 Proyectos Destacados
 
 ### 🐶 PetGuard
+
 Sistema inteligente para el monitoreo de la salud de mascotas mediante IoT, aplicación móvil y dashboard de monitoreo.
 `Flutter` `Supabase` `TypeScript` `Next.js` `IoT`
 🔗 https://github.com/NicolasPonceH/PetGuardApp
 
 ### 🌴 TuriArica
+
 Plataforma web para promover el turismo en la ciudad de Arica con una experiencia moderna y accesible.
 `JavaScript` `HTML` `CSS` `Leaflet`
 🔗 https://github.com/NicolasPonceH/TuriArica
 
 ### 🧠 BioBalance
+
 Proyecto enfocado en bienestar y salud mediante tecnologías web modernas.
 `Vue.js`
 🔗 https://github.com/NicolasPonceH/BioBalance
 
-🏢 Landing Page - J2N Software
+**🏢 Landing Page - J2N Software**
 
 Landing Page corporativa con animaciones avanzadas y diseño premium.
-Next.js TypeScript Tailwind CSS Framer Motion
+`Next.js` `TypeScript` `Tailwind CSS` `Framer Motion`
 🔗 Repo: https://github.com/NicolasPonceH/LandingPage_J2N_Software
 🌐 Demo: https://j2nsoftware.netlify.app/
 
-🐾 Landing Page - PetGuard
+**🐾 Landing Page - PetGuard**
 
 Landing Page interactiva del ecosistema PetGuard.
-Next.js React TypeScript Tailwind CSS Framer Motion
+`Next.js` `React` `TypeScript` `Tailwind CSS` `Framer Motion`
 🔗 Repo: https://github.com/NicolasPonceH/LandingPage_PetGuard
 🌐 Demo: https://petguardpage.netlify.app/
+
+### ☁️ Abis_SUPA
+
+Sistema ABIS - variante cloud (Supabase + GitHub Actions).
+`JavaScript` `Supabase` `GitHub Actions`
+🔗 https://github.com/NicolasPonceH/Abis_SUPA
+
+### 🏎️ Arica Drag Management System
+
+Sistema de gestión integral para competencias de Drag Racing: digitaliza el registro de pilotos, vehículos, categorías, grillas, tiempos y resultados de eventos de 201 y 402 metros.
+`HTML`
+🔗 https://github.com/NicolasPonceH/DragManagementSystem
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:3B82F6,100:8B5CF6&height=3&width=100%"/>
 
@@ -127,14 +142,17 @@ Next.js React TypeScript Tailwind CSS Framer Motion
 <!--END_SECTION:waka-->
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:3B82F6,100:8B5CF6&height=3&width=100%"/>
 
-## 🐍 Actividad reciente (Snake)
+## 👾 Contribuciones (Space Invaders)
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/NicolasPonceH/NicolasPonceH/output/github-contribution-grid-snake-dark.svg"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/NicolasPonceH/NicolasPonceH/output/commit-invaders-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/NicolasPonceH/NicolasPonceH/output/commit-invaders.svg" />
+  <img alt="NicolasPonceH's contributions as Space Invaders" src="https://raw.githubusercontent.com/NicolasPonceH/NicolasPonceH/output/commit-invaders-dark.svg" width="100%" />
+</picture>
 
 </div>
-
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:3B82F6,100:8B5CF6&height=3&width=100%"/>
 
@@ -161,7 +179,7 @@ Next.js React TypeScript Tailwind CSS Framer Motion
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:3B82F6,100:8B5CF6&height=3&width=100%"/>
 
-📫 Contacto
+## 📫 Contacto
 
 <div align="center">
 <a href="https://github.com/NicolasPonceH">
@@ -171,4 +189,5 @@ Next.js React TypeScript Tailwind CSS Framer Motion
 <img src="https://img.shields.io/badge/Gmail-poncenicolas8981-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 </div>
+
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3B82F6,100:8B5CF6&height=120&section=footer"/>
