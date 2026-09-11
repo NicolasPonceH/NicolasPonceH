@@ -159,17 +159,11 @@ Sistema de gestión integral para competencias de Drag Racing: digitaliza el reg
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:3B82F6,100:8B5CF6&height=3&width=100%"/>
 
-## 👾 Contribuciones (Space Invaders)
+## 👾 Contribuciones (Space Shooter)
 
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/NicolasPonceH/NicolasPonceH/output/commit-invaders-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/NicolasPonceH/NicolasPonceH/output/commit-invaders.svg" />
-  <img alt="NicolasPonceH's contributions as Space Invaders" src="https://raw.githubusercontent.com/NicolasPonceH/NicolasPonceH/output/commit-invaders-dark.svg" width="100%" />
-</picture>
-
-</div>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/NicolasPonceH/NicolasPonceH/main/assets/space-shooter.gif" alt="Space shooter contribution graph" />
+</p>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:3B82F6,100:8B5CF6&height=3&width=100%"/>
 
